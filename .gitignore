@@ -1,0 +1,11 @@
+# build artifacts
+Makefile
+
+# Emacs
+.#*
+\#*
+
+# Backups
+*.bak
+*~
+*~*~
